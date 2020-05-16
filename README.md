@@ -9,3 +9,9 @@ The app will store every burger in a database, whether devoured or not.
 
 So, try it out now!!
 
+![Image of Burger1](https://github.com/AndreaLabis/burger/blob/master/public/assets/img/burger1.jpg)
+
+![Image of Burger2](https://github.com/AndreaLabis/burger/blob/master/public/assets/img/burger2.jpg)
+
+![Image of Burger3](https://github.com/AndreaLabis/burger/blob/master/public/assets/img/burger3.jpg)
+
